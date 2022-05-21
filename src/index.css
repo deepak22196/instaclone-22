@@ -1,0 +1,22 @@
+.form-container {
+  border: 2px solid black;
+  margin-left: 25vw;
+  margin-top: 20vh;
+  width: "50vw";
+}
+
+input {
+  display: block;
+  margin: 2vw;
+  width: 40vw;
+  height: 5vh;
+}
+
+.post {
+  margin-left: 45%;
+  margin-bottom: 1vh;
+  width: 6vw;
+  height: 5vh;
+}
+
+/*  */

@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+.container-1 {
+  width: 100vw;
+  height: 100vh;
+  /* background-color: beige; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.img-1 {
+  width: 30vw;
+  height: 80vh;
+  align-self: center;
+  justify-self: center;
+  border: 2px solid green;
+  border-radius: 8px;
+}
+
+.right {
+  color: green;
+  align-self: center;
+  font-size: 2vw;
+}
+
+.btn {
+  color: green;
+  /* width: 6vw; */
+  border-radius: 5px;
+  margin-left: 3vw;
+  margin-top: 3vh;
+  font-size: 2vw;
+  cursor: pointer;
+}

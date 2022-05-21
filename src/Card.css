@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100vw;
+  height: 15vh;
+  border: 1px solid black;
+  border-bottom: 2px solid forestgreen;
+}
+
+.container {
+  width: 100vw;
+  height: fit-content;
+}
+
+.card {
+  font-size: 1.4vw;
+  margin-top: 2vh;
+  margin-left: 30vw;
+  width: 40vw;
+  height: fit-content;
+  border: 2px solid black;
+}
+
+img {
+  width: 100%;
+  height: 30vh;
+}
+
+.top-bar {
+  width: 100%;
+}
+
+.name {
+  display: inline-block;
+  margin-left: 1vw;
+  font-weight: bolder;
+}
+
+.menu {
+  display: inline-block;
+  margin-left: 35vw;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.city {
+  margin-left: 1vw;
+  color: rgb(140, 145, 130);
+}
+
+.logo-image {
+  width: 6vw;
+  height: 10vh;
+  margin-top: 2vh;
+  margin-left: 6vh;
+}
+
+.camera-image {
+  width: 8vw;
+  height: 12vh;
+  margin-left: 60vw;
+}
+
+.title {
+  color: forestgreen;
+  font-size: 3vw;
+  font-weight: bolder;
+  position: relative;
+  bottom: 2.5vh;
+  left: 1vw;
+}
+
+.like-icon {
+  width: 3vw;
+  height: 3vw;
+  cursor: pointer;
+}
+
+.telegram-icon {
+  margin-left: 1vw;
+  width: 3vw;
+  height: 3vw;
+  cursor: pointer;
+}
+
+.date {
+  display: inline-block;
+  position: relative;
+  bottom: 2vh;
+  left: 25vw;
+  color: rgb(116, 119, 109);
+}
+
+.like-counts {
+  margin-left: 0.6vw;
+  color: rgb(140, 145, 130);
+}
+
+.desc {
+  margin-left: 0.6vw;
+}

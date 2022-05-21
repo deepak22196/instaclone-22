@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Let's go to the mountains....",
+      "PostImage": "/images/image-1.jpeg",
+      "date": "new Date()"
+    },
+    {
+      "name": "Neeraj",
+      "location": "Pune",
+      "likes": 30,
+      "description": "Let's try some jungles also",
+      "PostImage": "/images/image-2.jpeg",
+      "date": "new Date()"
+    },
+    {
+      "name": "Rahul",
+      "location": "Hyderabad",
+      "likes": 30,
+      "description": "Forget everything, let's do the routine job",
+      "PostImage": "/images/image-3.jpeg",
+      "date": "new Date()"
+    }
+  ]
+}
